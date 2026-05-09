@@ -1,0 +1,6 @@
+{
+  "name": "预实分析报表",
+  "description": "一个专业级的月度预实分析报表原型，包含多级部门联动搜索、分组报头表格和完整的后台管理布局。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
